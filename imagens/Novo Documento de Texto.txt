@@ -1,0 +1,96 @@
+<td><center><img src="imagens/prestigio.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "prestigio.html">PRESTIGIO<br>Delicioso e carregado de morangos</a></td>
+
+<td><center><img src="imagens/brigadeiro.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "brigadeiro.html">BRIGADEIRO<br>Delicioso e carregado de morangos</a></td>
+</tr>
+
+<tr>
+<td><center><img src="imagens/cenoura.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "cenoura.html">CENOURA<br>Delicioso e carregado de morangos</a></font></td>
+
+<td><center><img src="imagens/laranja.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "laranja.html">LARANJA<br>Delicioso com corbetura de<br>chocolate com chantilly</a></td>
+
+<td><center><img src="imagens/Bis_Confeitados.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "chocolate.html">BIS CONFEITADOS<br>acompanhados de confetis</a></td>
+
+<td><center><img src="imagens/chocolate.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "chocolate.html">CHOCOLATE<br>Delicioso e carregado de morangos</a></td>
+
+<td><center><img src="imagens/chocolate.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "chocolate.html">CHOCOLATE<br>Delicioso e carregado de morangos</a></td>
+</tr>
+<tr>
+<td><center><img src="imagens/bolo_guloseimas.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "morango.html">BOLO GULOSEIMAS<br>bolo de chocolate, com recheio de brigadeiro, decorado com guloseimas</a></td>
+
+<td><center><img src="imagens/baunilha.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "baunilha.html">BAUNILHA<br>Delicioso e carregado de morangos</a></td>
+
+<td><center><img src="imagens/cappuccino.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "cappuccino.html">CAPPUCCINO<br>Delicioso e carregado de morangos</a></td>
+
+<td><center><img src="imagens/prestigio.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "prestigio.html">PRESTIGIO<br>Delicioso e carregado de morangos</a></td>
+
+<td><center><img src="imagens/brigadeiro.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "brigadeiro.html">BRIGADEIRO<br>Delicioso e carregado de morangos</a></td>
+</tr>
+
+<tr>
+<td><center><img src="imagens/cenoura.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "cenoura.html">CENOURA<br>Delicioso e carregado de morangos</a></font></td>
+
+<td><center><img src="imagens/laranja.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "laranja.html">LARANJA<br>Delicioso com corbetura de<br>chocolate com chantilly</a></td>
+
+<td><center><img src="imagens/chocolate.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "chocolate.html">CHOCOLATE<br>Delicioso e carregado de morangos</a></td>
+
+<td><center><img src="imagens/chocolate.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "chocolate.html">CHOCOLATE<br>Delicioso e carregado de morangos</a></td>
+
+<td><center><img src="imagens/chocolate.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "chocolate.html">CHOCOLATE<br>Delicioso e carregado de morangos</a></td>
+</tr>
+
+<tr>
+<td><center><img src="imagens/morango.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "morango.html">MORANGO<br>Delicioso e carregado de morangos</a></td>
+
+<td><center><img src="imagens/baunilha.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "baunilha.html">BAUNILHA<br>Delicioso e carregado de morangos</a></td>
+
+<td><center><img src="imagens/cappuccino.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "cappuccino.html">CAPPUCCINO<br>Delicioso e carregado de morangos</a></td>
+
+<td><center><img src="imagens/prestigio.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "prestigio.html">PRESTIGIO<br>Delicioso e carregado de morangos</a></td>
+
+<td><center><img src="imagens/brigadeiro.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "brigadeiro.html">BRIGADEIRO<br>Delicioso e carregado de morangos</a></td>
+</tr>
+
+<tr>
+<td><center><img src="imagens/cenoura.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "cenoura.html">CENOURA<br>Delicioso e carregado de morangos</a></font></td>
+
+<td><center><img src="imagens/laranja.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "laranja.html">LARANJA<br>Delicioso com corbetura de<br>chocolate com chantilly</a></td>
+
+<td><center><img src="imagens/chocolate.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "chocolate.html">CHOCOLATE<br>Delicioso e carregado de morangos</a></td>
+
+<td><center><img src="imagens/chocolate.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "chocolate.html">CHOCOLATE<br>Delicioso e carregado de morangos</a></td>
+
+<td><center><img src="imagens/cupcake.jpg" width= "130" align="middle">
+<center><font face="arial black" color= "black" "chocolate.html">CUPCAKE<br>com brigadeiro preto e <br> chantilly colorido e granulado por cima</a></td>
+</tr>
+</table>
+<br>
+
+<center><h1>ESCREVA AQUI ALGO RELEVANTE PARA O SITE!</h1></center>
+<br>
+<fonte face= "arial">
